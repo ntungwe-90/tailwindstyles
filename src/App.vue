@@ -842,6 +842,27 @@
       </div>
     </div>
   </footer>
+  <footer class="py-10 flex flex-col" data-v-16d43729=""><span id="page-footer" class="invisible" data-v-16d43729="">
+      Do not remove this. This element will not show in the browser, but it
+      plays an important role in Mixpanel event tracking.
+   </span> <div class="grid gap-x-5 gap-y-10 md:gap-x-10 md:grid-cols-3 lg:grid-cols-4 w-4/5 lg:w-3/4 mx-auto" data-v-16d43729=""><div class="footer_list" data-v-16d43729=""><a href="/legal" class="_h3" data-v-16d43729=""><h3 data-v-16d43729="">Legal</h3></a> <ul data-v-16d43729=""><li data-v-16d43729=""><a href="/legal/terms-conditions" data-v-16d43729="" class="">Terms &amp; Conditions</a></li> <li data-v-16d43729=""><a href="/legal/acceptable-use-policy" data-v-16d43729="" class="">Acceptable Use Policy</a></li> <li data-v-16d43729=""><a href="/legal/privacy-policy" data-v-16d43729="" class="">Privacy Policy</a></li> <li data-v-16d43729=""><a href="/legal/cookie-policy" data-v-16d43729="" class="">Cookie Policy</a></li> <li data-v-16d43729=""><a href="/legal/community-participation-policy" data-v-16d43729="" class="">Community Participation Policy</a></li> <li data-v-16d43729=""><a href="/legal/licensing-terms" data-v-16d43729="" class="">Licensing Terms</a></li> <li data-v-16d43729=""><a href="/legal/data-management-policy" data-v-16d43729="" class="">Data Management Policy</a></li> <li data-v-16d43729=""><a href="/legal/rewards-policy" data-v-16d43729="" class="">Rewards Policy</a></li></ul></div> <div class="footer_list" data-v-16d43729=""><h3 data-v-16d43729="">Location</h3> <ul data-v-16d43729=""><li data-v-16d43729=""><h4 class="text-lg font-bold" data-v-16d43729="">UK</h4> <p data-v-16d43729="">
+                  Unit 423 (mezzanine level 4) Omnibus House 39-41,
+                  <br data-v-16d43729="">
+                  North Road, London, N7 9DP, United Kingdom
+               </p></li> <li data-v-16d43729=""><h4 class="text-lg font-bold" data-v-16d43729="">Ghana</h4> <p data-v-16d43729="">
+                  4th Floor, Hse No. 128, 1st Africa House, Kwame Nkrumah
+                  Avenue Accra, Ghana.
+               </p></li></ul></div> <div class="footer_list" data-v-16d43729=""><h3 data-v-16d43729="">Social Media</h3> <ul class="inline-grid grid-cols-5 lg:grid-cols-4 xl:grid-cols-5 gap-x-4" data-v-16d43729=""><li data-v-16d43729=""><a target="_blank" href="https://twitter.com/walulel" data-v-16d43729=""><img src="/images/twitter_icon.svg" alt="twitter logo" data-v-16d43729=""></a></li> <li data-v-16d43729=""><a target="_blank" href="https://www.instagram.com/walulel" data-v-16d43729=""><img src="/images/instagram_icon.svg" alt="instagram logo" data-v-16d43729=""></a></li> <li data-v-16d43729=""><a target="_blank" href="https://www.facebook.com/WalulelGeospatial" data-v-16d43729=""><img src="/images/facebook_icon.svg" alt="facebook logo" data-v-16d43729=""></a></li> <li data-v-16d43729=""><a target="_blank" href="https://www.linkedin.com/company/walulel" data-v-16d43729=""><img src="/images/linkedin_icon.svg" alt="linkedin logo" data-v-16d43729=""></a></li> <li data-v-16d43729=""><a target="_blank" href="https://walulel.substack.com" data-v-16d43729=""><img src="/images/substack_icon.svg" alt="substack logo" data-v-16d43729=""></a></li></ul></div> <div class="footer_list" data-v-16d43729=""><a href="/faqs" class="_h3" data-v-16d43729=""><h3 data-v-16d43729="">FAQs</h3></a> <ul data-v-16d43729=""><li data-v-16d43729=""><a href="/billing-accounts" data-v-16d43729="" class="">
+                  Billing &amp; Accounts
+               </a></li> <li data-v-16d43729=""><a href="/product-usage-signup" data-v-16d43729="" class="">
+                  Product Usage &amp; Sign Up
+               </a></li> <li data-v-16d43729=""><a href="/roadmap" data-v-16d43729="" class="">Roadmap</a></li> <li data-v-16d43729=""><a href="/service-status-standards" data-v-16d43729="" class="">
+                  Service Status &amp; Standards
+               </a></li> <li data-v-16d43729=""><a href="https://www.wa-peopleware.com/" target="_blank" rel="noopener noreferrer" data-v-16d43729="">
+                  Hiring (External Site)
+               </a></li></ul></div></div> <p class="mt-20 self-center text-center" data-v-16d43729="">
+      © 2017- 2022 | Walulel Limited. All Rights Reserved
+   </p></footer>
       </div>
 
 
